@@ -7,7 +7,7 @@ $alamat=$_POST['alamat'];
 $kota=$_POST['kota'];
 $kerja=$_POST['kerja'];
 $status=$_POST['status'];
-$hb = $_POST['h1']."<br>".$_POST['h2']."<br>".$_POST['h3'];
+$hb = $_POST['h1']."<br>".$_POST['h2']."<br>".$_POST['h3']."<br>".$_POST['h4'];
 
 echo "
 <h2>Data Registrasi</h2>
