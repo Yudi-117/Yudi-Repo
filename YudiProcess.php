@@ -1,5 +1,4 @@
 <?php
-$h1 = "3";
 if (isset($_POST['input'])){
 $nama=$_POST['nama'];
 $tgllahir = $_POST['tgl']." ".$_POST['bln']." ".$_POST['thn'];
